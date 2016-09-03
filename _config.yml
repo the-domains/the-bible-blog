@@ -1,19 +1,4 @@
-name: The Bible Blog
-favicon: null
-layout_spectrum: 0.9400439071469009
 typography_spectrum: 0.2926725901197642
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,23 @@ color:
   lightness: 0.016751359216868877
   saturation: 0.8986605571117252
   rhythmicContrast: 0.05663020093925297
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9400439071469009
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: The Bible Blog
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: BLOG
+    url: 'http://thebibleblog.org/'
+    type: external
+favicon: null
 purpose: []
